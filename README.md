@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java Script, Python , C++, C, SQL 
 - 💞️ I’m looking to collaborate on some intresting projects
-- 📫 How to reach me through email Skandhayashu@2906@gmail.com 
+- 📫 How to reach me through email Skandhayashu2906@gmail.com 
 - ⚡ Fun fact: ...
 
 <!---
